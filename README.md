@@ -11,7 +11,7 @@ pkg update
 pkg install php 
 pkg install bash 
 pkg install python 
-git clone https://github.com/LoliTeamCybr/FREE-SMS 
+git clone https://github.com/LoliTeamCyber/FREE-SMS
 python main.py
 
 
